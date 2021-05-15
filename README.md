@@ -13,9 +13,11 @@
 * And here you can search for particular websites password by entering websites name in the corresponding field.
 
 > And as you save the password, it will be saved in a json file as shown below.
+
 ![Data](images/json.png)
 
 > GUI
+
 ![GUI](images/1.png)
 ![GUI](images/2.png)
 ![GUI](images/3.png)
